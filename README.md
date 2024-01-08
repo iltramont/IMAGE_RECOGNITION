@@ -13,3 +13,4 @@ I decided to use machine learning classification algorithms viewd during IT CODI
 - Notebook "Data_Preparation" is used to prepare "data" directory.
 - Notebook "Models" is used to train models with the best hyperparameters.
 - Notebook "Results" is used to look to models results.
+- "predictions.csv" file contains groundtruth and predicted labels for each model.
