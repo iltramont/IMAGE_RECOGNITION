@@ -4,4 +4,5 @@ Dataset is composed as follows:
 - images are 32 x 32 x 3 (32 by 32 pixels RGB);
 - train set contains 50000 images (5000 for each category);
 - test set contains 10000 images (1000 for each category);
+
 I decided to use machine learning classification algorithms viewd during IT CODING class at university. In particular the algorithms are: KNN, Logistic regression and random forest. Each algorithm has been tuned according to f1 global score. 
