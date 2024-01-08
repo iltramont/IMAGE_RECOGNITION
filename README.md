@@ -9,4 +9,6 @@ I decided to use machine learning classification algorithms viewd during IT CODI
 - Directory "train" contains train images
 - Directory "test" contains test images
 - Directory "data" contains pickle files used to load train and test set in a fast way.
-- Notebooks "KNN", "KNN_PCA", "Logistic_Regression", "Logistic_Regression_PCA", 
+- Notebooks "KNN", "KNN_PCA", "Logistic_Regression", "Logistic_Regression_PCA", "Random_Forest" and "Random_Forest_PCA" are used to search best hyperparameters.
+- Notebook "data_preparation" is used to prepare "data" directory.
+- Notebook "models"
